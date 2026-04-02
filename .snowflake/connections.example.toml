@@ -1,0 +1,8 @@
+[default]
+account = "YOUR_ACCOUNT_IDENTIFIER"
+user = "YOUR_USERNAME"
+password = "YOUR_PASSWORD"
+warehouse = "STREAMLIT_WH"
+database = "STREAMLIT_DEMO_DB"
+schema = "APP_SCHEMA"
+role = "ACCOUNTADMIN"
