@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Streamlit Cortex Dashboard
 
 A Streamlit-based sales analytics dashboard integrated with Snowflake for data retrieval and Snowflake Cortex for AI-generated business summaries.
@@ -81,3 +82,7 @@ streamlit_cortex_dashboard/
 pip install -r requirements.txt
 python -m streamlit run app.py
 ```
+=======
+# streamlit_cortex_dashboard
+Interactive Streamlit sales analytics dashboard built with Python and Snowflake, and enhanced using Cortex Code CLI for prompt-driven code updates, UI improvements, and development acceleration.
+>>>>>>> 6d1a9808478eebc0f07a8453c5ea12ae30cb0b62
